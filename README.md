@@ -5,8 +5,8 @@
 ### 💻 Activity
 #### [SeSAC iOS Bootcamp] (2022/12 ~ 2023/06) `ongoing`
 - [프로젝트 모음](https://github.com/longlivedrgn)
-#### [Yonsei Computer Club] (2022/09 ~ ) `ongoing`
-- 22-2 iOS Development Study Team Leader
+#### [Yonsei Central Computer Club] (2022/09 ~ ) `ongoing`
+- 22-2 iOS Development Study Team Member
     - Swift Basic
 - 23-1 iOS Seminar 
     - Swift and CS / Design Pattern / App Development
