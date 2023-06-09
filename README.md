@@ -3,7 +3,7 @@
 - I am currently a senior in college.
 
 ### 💻 Activity
-#### [SeSAC iOS Bootcamp] (2022/12 ~ 2023/06) `ongoing`
+#### [SeSAC iOS Bootcamp] (2022/12 ~ 2023/06) `completed`
 - [프로젝트 모음](https://github.com/longlivedrgn/SeSAC-iOS-Projects)
 #### [Yonsei Central Computer Club] (2022/09 ~ ) `ongoing`
 - 22-2 iOS Development Study Team Member
