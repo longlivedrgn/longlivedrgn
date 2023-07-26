@@ -15,6 +15,10 @@
 ### 📚 Education
 - [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp) (2018.03 ~ )
     - College of Engineering.
+ 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=longlivedrgn)](https://solved.ac/longlivedrgn)
 <!--
 **longlivedrgn/longlivedrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
