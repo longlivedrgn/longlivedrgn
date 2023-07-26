@@ -1,4 +1,7 @@
 ## iOS Developer, Miro
+[![TechBlog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://longlivedrgn-miro.tistory.com))
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=longlivedrgn)](https://solved.ac/longlivedrgn)
 - Hello, I'm a promising iOS developer
 - I am currently a senior in college.
 
@@ -16,9 +19,8 @@
 - [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp) (2018.03 ~ )
     - College of Engineering.
  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flonglivedrgn&count_bg=%2379C83D&title_bg=%236005F3&icon=&icon_color=%238E0C0C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=longlivedrgn)](https://solved.ac/longlivedrgn)
 <!--
 **longlivedrgn/longlivedrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
