@@ -1,5 +1,5 @@
 ## iOS Developer, Miro
-[![TechBlog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://longlivedrgn-miro.tistory.com))
+[![TechBlog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[[https://cocoon1787.tistory.com/](https://longlivedrgn-miro.tistory.com)](https://longlivedrgn-miro.tistory.com))
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=longlivedrgn)](https://solved.ac/longlivedrgn)
 - Hello, I'm a promising iOS developer
