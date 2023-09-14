@@ -5,8 +5,6 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://longlivedrgn-miro.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-- Hello, I'm a promising iOS developer
-- I am currently a senior in college.
 
 ### 💻 Activity
 #### [Seoul Sortware ACademy iOS Course] (2022/12 ~ 2023/06) `completed`
