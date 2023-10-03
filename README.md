@@ -7,15 +7,16 @@
 </a>
 
 ### 💻 Activity
-#### [Seoul Sortware ACademy iOS Course] (2022/12 ~ 2023/06) `completed`
+#### [Seoul Sortware ACademy iOS Course] 
+`(2022/12 ~ 2023/06)`
 - [프로젝트 모음](https://github.com/longlivedrgn/SeSAC-iOS-Projects)
-#### [[Yonsei Central Computer Club](https://linktr.ee/yonsei_computer_club)] (2022/09 ~ ) `ongoing`
-- 22-2 iOS Development Study Team Leader
-    - Swift Basic
-- 23-1 iOS Seminar 
-    - Swift and CS / Design Pattern / App Development
-#### [[TAVE](https://tavewave.github.io)] (2021/09 ~ 2022.01 ) `completed`
+#### [[Yonsei Central Computer Club](https://linktr.ee/yonsei_computer_club)] 
+`(2022/09 ~ )`
+- iOS Team Leader/ Member
+#### [[TAVE](https://tavewave.github.io)] 
+`(2021/09 ~ 2022.01 )`
 - Analysis of public data data using Python
+
 ### 📚 Education
 - [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp) (2018.03 ~ )
     - College of Engineering.
