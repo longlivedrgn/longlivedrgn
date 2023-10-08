@@ -1,4 +1,4 @@
-## iOS Developer, Miro
+## Mobile Developer, YongJae Kim(Miro)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=longlivedrgn)](https://solved.ac/longlivedrgn)
 <a href="https://longlivedrgn-miro.tistory.com">
     <img 
