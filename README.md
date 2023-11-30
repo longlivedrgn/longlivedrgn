@@ -7,6 +7,8 @@
 </a>
 
 ### 💻 Activity
+#### [GDSC Yonsei]
+- Mobile Team Member
 #### [Seoul Sortware ACademy iOS Course] 
 `(2022/12 ~ 2023/06)`
 - [프로젝트 모음](https://github.com/longlivedrgn/SeSAC-iOS-Projects)
