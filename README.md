@@ -6,20 +6,16 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### 💻 Activity
-#### [GDSC Yonsei]
+#### [[Google Developer Studend Club Yonsei](https://github.com/gdsc-ys)]
 - Mobile Team Member
 #### [Seoul Sortware ACademy iOS Course] 
-`(2022/12 ~ 2023/06)`
 - [프로젝트 모음](https://github.com/longlivedrgn/SeSAC-iOS-Projects)
 #### [[Yonsei Central Computer Club](https://linktr.ee/yonsei_computer_club)] 
-`(2022/09 ~ )`
 - iOS Team Leader/ Member
 #### [[TAVE](https://tavewave.github.io)] 
-`(2021/09 ~ 2022.01 )`
 - Analysis of public data data using Python
 
-### 📚 Education
+#### 📚 Education
 - [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp) (2018.03 ~ )
     - College of Engineering.
  
