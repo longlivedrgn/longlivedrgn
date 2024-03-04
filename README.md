@@ -5,7 +5,8 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://longlivedrgn-miro.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+#### [[Nexters](https://teamnexters.com)]
+- iOS Developer
 #### [[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)]
 - Mobile Team Member
 #### [Seoul Sortware ACademy iOS Course] 
