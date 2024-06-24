@@ -5,18 +5,26 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://longlivedrgn-miro.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-#### [[Nexters](https://teamnexters.com)]
-- iOS Developer
-#### [[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)]
-- Mobile Team Member
-#### [Seoul Sortware ACademy iOS Course] 
+
+### 💻 Activities
+
+**[[ 넥스터즈(Nexters) ](https://teamnexters.com)]** (2023.12 ~ current)
+- `24th iOS Developer` - [Boolti(불티)](https://github.com/Nexters/Boolti-iOS)
+- `25th iOS Developer`
+
+**[[ Google Developer Student Club Yonsei ](https://github.com/gdsc-ys)]** (2023.09 ~ current)
+- `Mobile Team Member`
+
+**[ [Yonsei Central Computer Club ](https://linktr.ee/yonsei_computer_club)]** (2021.09 ~ 2023.01)
+- `iOS Team Leader/ Member`
+
+**[ Seoul Sortware ACademy iOS Course ]** (2022.12 ~ 2023.06)
 - [프로젝트 모음](https://github.com/longlivedrgn/SeSAC-iOS-Projects)
-#### [[Yonsei Central Computer Club](https://linktr.ee/yonsei_computer_club)] 
-- iOS Team Leader/ Member
-#### [[TAVE](https://tavewave.github.io)] 
+
+**[[ TAVE ](https://tavewave.github.io)]** (2021.06 ~ 2022.01)
 - Analysis of public data data using Python
 
-#### 📚 Education
+### 📚 Education
 - [Yonsei University](https://www.yonsei.ac.kr/sc/index.jsp) (2018.03 ~ )
     - College of Engineering.
  
