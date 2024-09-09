@@ -10,7 +10,7 @@
 
 **[[ 넥스터즈(Nexters) ](https://teamnexters.com)]** (2023.12 ~ current)
 - `24th iOS Developer` - [Boolti(불티)](https://github.com/Nexters/Boolti-iOS)
-- `25th iOS Developer`
+- `25th iOS Developer` - [MissionMate(미션메이트)](https://github.com/Nexters/goalpanzi-iOS)
 
 **[ Seoul Sortware ACademy iOS Course ]** (2022.12 ~ 2023.06)
 - [프로젝트 모음](https://github.com/longlivedrgn/SeSAC-iOS-Projects)
